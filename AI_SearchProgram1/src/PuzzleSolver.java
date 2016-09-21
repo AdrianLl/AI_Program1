@@ -39,7 +39,7 @@ public class PuzzleSolver {
 
 		}
 		
-		System.out.println( "\nWhich search would you like to us? ");
+		System.out.println( "\nWhich search would you like to use? ");
 		System.out.println("1. BFS\n2. DFS\n3. A*\n4. IDA*");
 
 	}
